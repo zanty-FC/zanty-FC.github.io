@@ -22,7 +22,8 @@ Limpiar la lista antes de actualizarla (innerHTML = "").
 
 Iterar sobre el array amigos y agregar cada nombre como un <li>.
 
-4️⃣ Realizar el sorteo
+
+Realizar el sorteo
 
 Validar que la lista de amigos no esté vacía.
 
